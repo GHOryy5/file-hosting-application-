@@ -1,0 +1,8 @@
+# Django & DRF
+django
+djangorestframework
+django-filter
+django-cors-headers
+
+# WSGI Server (for production, good practice)
+gunicorn
